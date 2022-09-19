@@ -1,3 +1,3 @@
 # Codestates Project 1
-- data preprocessingddfd
+- data preprocessing
 - catboost modeling
