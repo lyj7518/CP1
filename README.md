@@ -1,5 +1,5 @@
 # Codestates Project 1
-- data preprocessing
-- feature engineering
-- modeling
+- Data Preprocessing
+- Feature Engineering
+- Modeling
   - CatBoost model
