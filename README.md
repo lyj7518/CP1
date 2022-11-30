@@ -8,4 +8,4 @@
   - 사용 모델
     1) Catboost_0.6
     2) XGBoost_0.45
-    3) RF Model
+    3) RF Model_0.36
